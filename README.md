@@ -20,5 +20,3 @@ Proyek:
 5. Dapat ditambahkan ke homescreen.
 6. Memiliki splash screen.
 7. Kode pada Service Worker berbasis Workbox.
-
-dapat diakses pada https://mpwa-b439b.web.app/
